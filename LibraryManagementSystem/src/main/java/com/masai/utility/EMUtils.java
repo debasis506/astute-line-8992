@@ -1,4 +1,4 @@
-package com.masaischool.utility;
+package com.masai.utility;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

@@ -8,6 +8,7 @@ import com.masai.entity.Rental;
 import com.masai.entity.Student;
 import com.masai.exception.NoRecordFoundException;
 import com.masai.exception.SomethingWentWrongException;
+import com.masai.utility.EMUtils;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;
