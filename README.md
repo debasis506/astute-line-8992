@@ -37,8 +37,7 @@ The Library Management System is a Java-based software solution that provides us
 
 ### ER Diagram
 
- <img align="center" src="https://drive.google.com/file/d/102CY4OgG-c6mGFNRBJpu7A5ywA-VZ3p1/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
+<img width="552" alt="er" src="https://github.com/debasis506/astute-line-8992/assets/121310863/565f1c10-5270-4e6e-9076-bfaf185f9307">
 
 ## Installation
 
