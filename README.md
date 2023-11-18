@@ -41,7 +41,7 @@ The Library Management System is a Java-based software solution that provides us
 
 ## Installation
 
-#### To run the NS Library Management System locally, please follow these steps:
+#### To run the Library Management System locally, please follow these steps:
 
 #### 1. https://github.com/debasis506/astute-line-8992.git
 #### 2. Update the dependencies in the 'POM.xml' file to ensure all required libraries are correctly included.
